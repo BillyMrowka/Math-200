@@ -1,4 +1,4 @@
-Timestamp,What type of phone do you own? ,What's your Major?,What is your GPA,How many classes are you in?
+Timestamp,Phone_Type,Major,GPA,Number_of_classes
 10/30/2023 20:22:05,Iphone,Business,3.3,5
 10/30/2023 20:22:26,Android,Business,2.9,5
 10/30/2023 20:23:58,Iphone,Business,3.7,7
